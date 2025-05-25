@@ -1,0 +1,7 @@
+title: Green Future Ideas Dataset
+description: >
+  A dataset containing innovative ideas and proposals related to green technology and sustainability.
+source: User-collected
+file: greenfuture_ideas_dataset.csv
+format: csv
+license: CC-BY
